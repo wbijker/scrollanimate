@@ -1,0 +1,25 @@
+{
+  "name": "scrollanimate",
+  "version": "1.0.0",
+  "description": "A small native customizable JS library to add animation effects on scrolling",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbijker/scrollanimate.git"
+  },
+  "keywords": [
+    "scroll",
+    "animate",
+    "native",
+    "small"
+  ],
+  "author": "Willem Bijker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbijker/scrollanimate/issues"
+  },
+  "homepage": "https://github.com/wbijker/scrollanimate#readme"
+}
